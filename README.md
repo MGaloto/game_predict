@@ -4,7 +4,7 @@ Iniciando repositorio sobre Modelos de Clasificación utilizando la librería Sc
 
 
 <p>
-<a href="https://scikit-learn.org/" rel="nofollow"><img src="https://banner2.cleanpng.com/20180329/lfe/kisspng-machine-learning-microsoft-azure-predictive-analyt-learning-5abcb520eb4882.1522348315223165769637.jpg" align="right" width="130" style="max-width: 60%;"></a>
+<a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" align="right" width="200" style="max-width: 100%;"></a>
 </p>
 
 # Introduccion
